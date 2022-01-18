@@ -1,5 +1,10 @@
 # CodeOp Coding 101 Workshop: 19 Jan 2022
 
+Thanks for attending our coding workshop! We hope you enjoyed it. 
+Here are a bunch of resources that were mentioned during the workshop... and some that weren't!
+
+
+
 ## Post-Workshop Survey
 
 Please take a few minutes and complete our
